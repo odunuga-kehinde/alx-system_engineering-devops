@@ -1,2 +1,2 @@
 #!/bin/bash
-cat /etc/passwd tmp.txt ; cat /etc/hosts tmp.txt
+less /etc/passwd ; less /etc/hosts
